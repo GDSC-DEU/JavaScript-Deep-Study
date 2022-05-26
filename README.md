@@ -29,6 +29,10 @@
 
 ### Member
 
-| 이름   | 링크                             |
-| ------ | -------------------------------- |
-| 최정혜 | [jeonghye-choi](/jeonghye-choi/) |
+| 이름   | 링크                             | 블로그 주소                                             |
+| ------ | -------------------------------- | ------------------------------------------------------- |
+| 최정혜 | [jeonghye-choi](/jeonghye-choi/) | [jeonghye.blog](https://jeonghye.blog/dev)              |
+| 손진영 | [jeonghye-choi](/jinyoung234/)   | [jinyoung98a.tistory](https://jinyoung98a.tistory.com/) |
+| 김영주 | [jeonghye-choi](/K-0joo/)        | [kimeyou.tistory](https://kimeyou.tistory.com/)         |
+| 김현지 | [jeonghye-choi](/Hyun-Jiii/)     | [velog.@b612_boreum](https://velog.io/@b612_boreum)     |
+| 윤한영 | [jeonghye-choi](/YoonHan0/)      | [velog.@yoon_han0](https://velog.io/@yoon_han0)         |
