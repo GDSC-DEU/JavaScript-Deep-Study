@@ -6,3 +6,4 @@
 | 3주차 | 2022.05.12 | 4장. 표현식과 연산자 | 아직 정리중 입니다 ㅠ | [링크](https://kimeyou.tistory.com/20) |
 | 4주차 | 2022.05.19 | 5장. 문 | 아직 정리중 입니다 ㅠ | [링크](https://kimeyou.tistory.com/21) |
 | 5주차 | 2022.05.26 | 6장. 객체 | 객체, 프로퍼티 | [링크](https://kimeyou.tistory.com/24) |
+| 6주차 | 2022.06.30 | 7장. 배열 | 배열, 객체, 문자열 | [링크](https://kimeyou.tistory.com/25) |
