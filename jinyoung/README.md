@@ -1,0 +1,9 @@
+| 주차 | 날짜 | 제목  | 설명              | 링크     |
+| ---- | ---- | ----- | ----------------- | -------- |
+| 1 | 2022.04.28 | 1장 자바스크립트 소개 | JS 소개 | [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=40bb30b550684074a5229b4fb259155d) |
+| 2 | 2022.04.28 | 2장 어휘 구조 | JS 어휘 구조 | [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=40bb30b550684074a5229b4fb259155d) |
+| 3 | 2022.05.05 | 3장 타입, 값, 변수 | JS 타입, 값, 변수에 대한 이해(정리중) | [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=2fae77a9e1154b7596f36c5481cd97e8) |
+| 4 | 2022.05.12 | 4장 표현식과 연산자 | JS 표현식과 연산자에 대한 이해 | part1 [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=7296ff5a87ea4e4ab5ad8cd02fb74f29) part2 [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=1dd173e9152a446ea3c970433e63d957) |
+| 5 | 2022.05.19 | 5장 문 | JS 여러 종류의 문에 대한 이해 | part1 [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=7bbdc516dbf2436898c40be116d8d001) part2 [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=d44305cb6b5a46929ee8aed5a61d6fc9) |
+| 6 | 2022.05.26 | 6장 객체 | JS 객체에 대한 이해 | part1 [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=53453ee129754fd3af772564a24dc160) part2 [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=be105f5ab3464f978ea5c2a04b8c4618) |
+| 7 | 2022.06.30 | 7장 배열 | JS 배열에 대한 이해 | [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=b82f3ad12a774565bd21b6ce2dd98aa2) |
