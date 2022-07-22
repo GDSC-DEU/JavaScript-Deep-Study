@@ -4,3 +4,8 @@
 | 1주차 | 2022.04.28 | 2장. 어휘 구조| 어휘 구조 | [링크](https://kimeyou.tistory.com/15?category=934036) |
 | 2주차 | 2022.05.05 | 3장. 타입, 값, 변수 | 아직 정리중 입니다 ㅠ | [링크](https://kimeyou.tistory.com/17?category=934036) |
 | 3주차 | 2022.05.12 | 4장. 표현식과 연산자 | 아직 정리중 입니다 ㅠ | [링크](https://kimeyou.tistory.com/20) |
+| 4주차 | 2022.05.19 | 5장. 문 | 아직 정리중 입니다 ㅠ | [링크](https://kimeyou.tistory.com/21) |
+| 5주차 | 2022.05.26 | 6장. 객체 | 객체, 프로퍼티 | [링크](https://kimeyou.tistory.com/24) |
+| 6주차 | 2022.06.30 | 7장. 배열 | 배열, 객체, 문자열 | [링크](https://kimeyou.tistory.com/25) |
+| 7주차 | 2022.07.14 | 8장. 함수 | 정리하여 다시 올리겠습니다! | [링크](https://kimeyou.tistory.com/30) |
+| 8주차 | 2022.07.21 | 9장. 클래스 | 정리하여 다시 올리겠습니다! | [링크](https://kimeyou.tistory.com/31) |
