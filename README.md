@@ -33,3 +33,4 @@
 | ------ | --------- | ------------------ |
 | 최정혜 | ----      | -----------        |
 | 김현지 | Hyun-Jiii | velog.@b612_boreum |
+| 손진영 | [jinyoung](./jinyoung/)   | [notion](https://www.notion.so/59e4255f6d5a42e0bd6fda3f287b60f1) |
