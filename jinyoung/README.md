@@ -7,3 +7,7 @@
 | 5 | 2022.05.19 | 5장 문 | JS 여러 종류의 문에 대한 이해 | part1 [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=7bbdc516dbf2436898c40be116d8d001) part2 [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=d44305cb6b5a46929ee8aed5a61d6fc9) |
 | 6 | 2022.05.26 | 6장 객체 | JS 객체에 대한 이해 | part1 [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=53453ee129754fd3af772564a24dc160) part2 [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=be105f5ab3464f978ea5c2a04b8c4618) |
 | 7 | 2022.06.30 | 7장 배열 | JS 배열에 대한 이해 | [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=b82f3ad12a774565bd21b6ce2dd98aa2) |
+| 8 | 2022.07.14 | 8장 함수 | JS 함수에 대한 이해 | [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=453ae5a4ad2a4e57b21208c7fa767030&pm=c) |
+| 9 | 2022.07.21 | 9장 클래스 | JS 클래스에 대한 이해 | [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=6818f541bfa3433099e86988181ef93a&pm=c) |
+| 10 | 2022.07.28 | 10장 모듈 | JS 모듈에 대한 이해 | [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=e455d4f26f424253a2425fce217d6859&pm=c) |
+| 11 | 2022.08.04 | 11장 자바스크립트 표준 라이브러리 | JS 표준 라이브러리에 대한 이해 | [링크](https://www.notion.so/19508387e7204892bf90eb8cd52316c0?v=3053b46a6b3e485f82975e0f9cbc7765&p=da49dc57b68946ffa298ce5f975484c5&pm=c) |
